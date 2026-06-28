@@ -33,6 +33,7 @@ A baseline agent wired up with web search tools for open-ended Q&A and current-e
 **Files:** `agent.py`
 
 
+
 ## Stack
 
 Agno Framework · OpenAI API (GPT models) · SQLite · DuckDuckGo Search · Streamlit · Python
